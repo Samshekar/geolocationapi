@@ -2,7 +2,7 @@
     "name": "IP Geolocation API",
     "description": "A painless Geolocation API",
     "website": "https://ipgeolocationapi.com",
-    "repository": "https://github.com/madisvain/geolocationapi",
+    "repository": "https://github.com/Samshekar/geolocationapi",
     "logo": "https://ipgeolocationapi.io/static/logo.svg",
     "keywords": [
       "python",
